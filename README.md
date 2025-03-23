@@ -3,7 +3,7 @@ I'm a student at Hacettepe University Electrical and Electronics Engineering<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammed Enes DEĞER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammedEnesDEĞER)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ensdgr2536@gmail.com) 
 
 # 💻 Tech Stack:
